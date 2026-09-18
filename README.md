@@ -10,6 +10,7 @@ I build Python and TypeScript applications, with a focus on backend APIs, retrie
 
 | Project | Focus |
 | --- | --- |
+| [Brain in Computer (BiC)](https://github.com/Dolvido/BiC) | Small neural learner with verified English curricula, an external local tutor loop, a CPU demo, and measured limits on acquisition and composition. |
 | [NASA CMR AI Agent](https://github.com/Dolvido/NASA_CMR_AGENT) | Independent assessment prototype for natural-language Earth science search, async API orchestration and streamed results. |
 | [AutoAgent](https://github.com/Dolvido/AutoAgent) | Experimental code-review tooling with retrieval, structured findings and explicit failure handling. |
 | [Smart Image Insights](https://github.com/Dolvido/smart-image-insights) | Image-upload interface backed by object detection and captioning services. |

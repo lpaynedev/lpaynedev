@@ -17,6 +17,10 @@ I build Python and TypeScript applications, with a focus on backend APIs, retrie
 | [Fuguely case study](https://lukepayne.web.app/projects/fuguely) | Music lesson scheduling and connected teacher/student workflows. |
 | [PRIM case study](https://lukepayne.web.app/projects/prim) | Deterministic simulation, experiment comparison and inspectable run state. |
 
+## Current direction
+
+I am building inspectable, local AI tools and measuring where they fail. [LLM Tool Calling Lab](https://github.com/Dolvido/llm-tool-calling-lab) is now available as an experimental v0.1.0 release: four numerical ML task families, interchangeable specialists and a frozen comparison. Added planning instructions did not improve held-out conversation completion (31/48 versus 33/48 for generic tool calling). The next proposed work targets anomaly answers, task eligibility and evidence-supported explanations. [Vision and results](https://github.com/Dolvido/llm-tool-calling-lab/blob/main/docs/VISION.md).
+
 ## Engineering interests
 
 - Python services, TypeScript applications and clear API boundaries.
